@@ -1,0 +1,17 @@
+## numpy
+## pandas
+## tkinter
+## opencv-python
+## opencv-contrib-python
+## opencv-python-headless
+## opencv-contrib-python-headless
+## os
+## Pillow
+## customtkinter
+## csv
+## datetime
+
+## py -m venv .venv
+## .venv\Scripts\activate
+## py -m pip install <package name>
+## py -m pip freeze > requirements.txt
